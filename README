@@ -1,0 +1,31 @@
+# HR Performance Analysis
+
+A Python-based HR analytics project explore employee performance, detect outliers, and find potential improvement areas.
+
+## 📌 Features
+- Statistical Summaries: Mean, median, distribution analysis
+- Visual Insights:
+  - Distribution of performance scores
+  - Distribution of hours worked
+  - Performance by department
+  - Correlation between engagement and performance
+- Recommendations: Actionable suggestions based on analysis
+
+## 🗂 Dataset
+The dataset contains employee performance metrics, engagement survey scores, and work-related data.
+
+📊 Key Insights
+The majority of employees fall into the Fully Meets performance category.
+
+High engagement scores are linked to better performance.
+
+More special projects often correlate with higher performance.
+
+Some departments show notable variations.
+
+📌 Recommendations
+Strengthen employee engagement programs.
+
+Investigate cases of high absenteeism or frequent lateness.
+
+Encourage participation in special projects.
